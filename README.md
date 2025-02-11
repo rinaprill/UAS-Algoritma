@@ -1,5 +1,7 @@
 # Sistem Catatan Keuangan Produksi 📝💰
 
+![image](https://github.com/user-attachments/assets/75893c36-3078-4b9d-a539-3b3cfbdd3c44)
+
 Program ini adalah sistem pencatatan keuangan produksi sederhana yang dibuat menggunakan Java.  
 Dapat digunakan untuk mencatat transaksi **Pendapatan** dan **Pengeluaran**, serta melihat laporan keuangan.
 
